@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey y'all 👋
 
-<!--
-**Nyanguy/Nyanguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Python software developer specialized in cpu-bound tasks.
+So tools like Cython, Numba and Numpy are my best friends.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👷 I’m currently working at QB.
+- 🏆 I've written: 
+  - 🤓 a high-perfomance multiprocessing framework to perform data analisys;
+  - 🤟 a DSL from scratch; 
+  - 🤖 a couple of slack-bots for optimised workflow.
+  - 🕸 a couple web apps for monitoring. [Django/Vue]
+- 🦀 I've been actively learning Rust.
+- 🤢 I'm **not** a fan of the front-end.
+- 🚀 I can implement almost anything in: Python/Cython, Rust, C, C++. (with respect to the time ⏳)
