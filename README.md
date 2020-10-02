@@ -5,7 +5,7 @@ So tools like Cython, Numba and Numpy are my best friends.
 
 - 👷 I’m currently working at QB.
 - 🏆 I've written: 
-  - 🤓 a high-perfomance multiprocessing framework to perform data analisys;
+  - 🤓 a high-performance multiprocessing framework to perform data analisys;
   - 🤟 a DSL from scratch; 
   - 🤖 a couple of slack-bots for optimised workflow.
   - 🕸 a couple web apps for monitoring. [Django/Vue]
