@@ -11,4 +11,3 @@ So tools like Cython, Numba and Numpy are my best friends.
   - 🕸 a couple web apps for monitoring. [Django/Vue]
 - 🦀 I've been actively learning Rust.
 - 🤢 I'm **not** a fan of the front-end.
-- 🚀 I can implement almost anything in: Python/Cython, Rust, C, C++. (with respect to the time ⏳)
