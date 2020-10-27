@@ -12,4 +12,4 @@ So tools like Cython, Numba and Numpy are my best friends.
   - 🤟 a DSL from scratch; 
   - 🤖 a couple of slack-bots for optimised workflow.
   - 🕸 a couple web apps for monitoring. [Django/Vue]
-- 🤢 **not** a fan of a front-end development.
+- 🤢 **not** a fan of a front-end web-development. Keep your sleazy _revolutionary_ frameworks away.
