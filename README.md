@@ -3,12 +3,13 @@
 I am a Python software developer specialized in cpu-bound tasks.
 So tools like Cython, Numba and Numpy are my best friends.
 
+- 🦀 I'm actively learning Rust.
+- :checkered_flag: as well as learning Go.
 - 👷 I’m currently working at QB.
 - 🏆 I've written: 
-  - 🤓 a high-performance multiprocessing framework to perform data analisys;
+  - 🤓 a high-performance multiprocessing framework in Cython/Numba/Numpy to perform data analisys;
   - 🦀 and then reimplemented it's core in Rust with a Python front-end. 
   - 🤟 a DSL from scratch; 
   - 🤖 a couple of slack-bots for optimised workflow.
   - 🕸 a couple web apps for monitoring. [Django/Vue]
-- 🦀 I've been actively learning Rust.
-- 🤢 I'm **not** a fan of the front-end.
+- 🤢 **not** a fan of a front-end development.
