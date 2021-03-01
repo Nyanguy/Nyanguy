@@ -15,4 +15,5 @@ My political views can be described as: GIL is ok, `:=` is great.
   - 🤟 a couple DSL from scratch; 
   - 🤖 a couple of slack-bots for optimised workflow.
   - 🕸 a couple web apps for monitoring. IOT-like problems. [Django/Vue | Flask/React]
+  - :infinity: adopted InfluxDB 2 to solve my statistics problems. Waiting for the IOx core.
 - 🤢 **not** a fan of a front-end web-development. Keep your sleazy _revolutionary_ frameworks away.
