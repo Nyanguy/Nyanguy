@@ -1,7 +1,7 @@
 ### Hey y'all 👋
 
-I am a Rust/Python software developer specialized in cpu-bound tasks.    
-Cython, Numba and Numpy are my best friends.    
+I am a Rust/Python software engineer specialized in cpu-bound tasks.    
+As for Python side, Cython, Numba and Numpy are my best friends.    
 My political views can be described as: GIL is ok, `:=` is great.
 
 - 🦀🐍 I'm actively interested in the development of Rust & Python.
