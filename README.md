@@ -11,6 +11,8 @@ My political views can be described as: GIL is ok, `:=` is great.
 - 💖 it makes my heart warm, when performance is at max.
 - :muscle: perf matters.
 - 👷 I’m currently working at QB as a Lead Project Engineer.
+- 👨‍🏫 Doing codereviews and applicant interviews (technical/soft).
+- 🤝 I help coworkers to write better Python/Rust code and try to learn something from them in the process.
 - 🏆 I've written and designed: 
   - 🤓 a high-performance multiprocessing framework with Cython/Numba/Numpy to perform data analisys;
   - 🦀 and then reimplemented it's core in Rust with a Python front-end [hooray! threading for humans!].
