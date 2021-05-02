@@ -5,7 +5,6 @@ As for Python side, Cython, Numba and Numpy are my best friends.
 My political views can be described as: GIL is ok, `:=` is great.
 
 - 🦀🐍 I'm actively interested in the development of Rust & Python.
-- :checkered_flag: slowly learning Go.
 - 🧑‍💻 I want to write more C/C++ code, but I just usually opt for Rust without even thinking.
 - 🤤 things like **`Q_rsqrt`** make me happy.
 - 💖 it makes my heart warm, when performance is at max.
